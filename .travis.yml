@@ -1,4 +1,4 @@
-lenguage : node_js
+language : node_js
 cache:
     directories:
         - ~/.npm
